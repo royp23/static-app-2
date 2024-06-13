@@ -1,0 +1,46 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: "Bebas Neue", sans-serif !important;
+	color: white;
+}
+
+#tea{
+	color: #026C19;
+} 
+
+/*Home*/
+#home {
+	background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/homebg.jpg") no-repeat center center/cover;
+	height: 100%;
+}
+
+#intro-heading{
+	font-size: 80px;
+}
+
+/*categories*/
+#cate-heading{
+	font-size: 60px;
+}
+
+
+#category-card {
+	min-height: 100%;
+}
+
+
+/*contact*/
+#about{
+	overflow: hidden;
+}
+
+.overflow-hidden{
+	overflow: hidden;
+}
+#contact-us{
+	width: 600px;
+}
+#contact-textarea{
+	width: 100%;
+}
